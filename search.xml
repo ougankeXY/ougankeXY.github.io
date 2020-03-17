@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于Hexo博客搭建</title>
+    <url>/2020/03/17/%E5%85%B3%E4%BA%8EHexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
+    <content><![CDATA[<blockquote>
+<p>hexo博客终于搭建完成了，因为网络环境等等因素进度是异常的缓慢，用了两天多时间，心累。</p>
+<p>采用了朋友的真·保姆教程一步一步下来的。贴上他的<a href="https://shirobox.fun/" target="_blank" rel="noopener">博客</a>里面有<a href="https://shirobox.fun/2020/03/12/Hexo+Github%20Pages%E6%90%AD%E5%BB%BA/" target="_blank" rel="noopener">教程链接</a>。</p>
+<p>后续会尝试添加一些功能插件，暂时先这样。</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
-    <url>/2020/03/16/hello-world/</url>
+    <url>/2020/03/17/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
